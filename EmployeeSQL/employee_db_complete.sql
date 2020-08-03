@@ -1,5 +1,5 @@
 --Data Engineering for database
-
+--importing csv files 
 --table for employees
 create table employees (
 	emp_no integer, 
